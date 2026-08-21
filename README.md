@@ -181,7 +181,7 @@ DesRedTeam 建立在以下开源项目之上，集成与再开发：
 
 | 开源项目              | GitHub                                       | 角色                                                         |
 | --------------------- | -------------------------------------------- | ------------------------------------------------------------ |
-| CyberStrike           | https://github.com/CyberStrikeus/cyberstrike | 前身与基石（Go + Gin、Eino 多代理、MCP 联邦、四层记忆、AI 围栏 HITL） |
+| CyberStrike           | [https://github.com/CyberStrikeus/cyberstrike](https://github.com/Ed1s0nZ/CyberStrikeAI) | 前身与基石（Go + Gin、Eino 多代理、MCP 联邦、四层记忆、AI 围栏 HITL） |
 | GSL5 (Godzilla Super) | https://github.com/Xaaaa-bip/GodzillaSuper   | WebShell 管理服务 + 平台前端适配                             |
 
 - 本项目使用 **Apache License 2.0** 开源（见 `LICENSE.txt`）
